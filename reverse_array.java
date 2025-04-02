@@ -1,4 +1,4 @@
-public class reverse{
+public class reversearray{
 public static void main (String[] args) {
 int[] a={10,20,30,40};
 System.out.println("before reversing");
@@ -15,7 +15,7 @@ start++;
 end--;
 }
 System.out.println();
-System.out.println("after reversing")
+System.out.println("after reversing");
 for(int i:a) {
 System.out.print(i+",");
 }
